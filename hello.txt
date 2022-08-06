@@ -5,3 +5,4 @@
 555555   hot-fix  test
 remote-store-update
 remote-kuaituanduixiezuozhe-update
+update in github
